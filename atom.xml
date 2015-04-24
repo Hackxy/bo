@@ -4,7 +4,7 @@
   <subtitle><![CDATA[博学宝电子书包]]></subtitle>
   <link href="/bo/atom.xml" rel="self"/>
   <link href="http://hackxy.github.io/bo/"/>
-  <updated>2015-04-23T15:23:00.355Z</updated>
+  <updated>2015-04-24T15:06:47.677Z</updated>
   <id>http://hackxy.github.io/bo/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[Images]]></title>
-    <link href="http://hackxy.github.io/bo/2015/04/23/images/"/>
-    <id>http://hackxy.github.io/bo/2015/04/23/images/</id>
-    <published>2015-04-23T15:23:00.355Z</published>
-    <updated>2015-04-23T15:23:00.355Z</updated>
+    <link href="http://hackxy.github.io/bo/2015/04/24/images/"/>
+    <id>http://hackxy.github.io/bo/2015/04/24/images/</id>
+    <published>2015-04-24T15:06:47.677Z</published>
+    <updated>2015-04-24T15:06:47.677Z</updated>
     <content type="html"><![CDATA[<p>This is a image test post.</p>
 <p><img src="http://www.curvexpo.com/wp-content/uploads/2013/10/AddictionDouceur-Trapeze-Top-and-Legging-300x450.jpg" alt=""></p>
 <p><img src="http://wuchong.me/jacman/images/wallpaper-2311325.jpg" alt="Caption"></p>
@@ -35,10 +35,10 @@
   
   <entry>
     <title><![CDATA[Questions and Answers（中文）]]></title>
-    <link href="http://hackxy.github.io/bo/2015/04/23/qna-cn/"/>
-    <id>http://hackxy.github.io/bo/2015/04/23/qna-cn/</id>
-    <published>2015-04-23T14:29:40.123Z</published>
-    <updated>2015-04-23T14:29:26.342Z</updated>
+    <link href="http://hackxy.github.io/bo/2015/04/24/qna-cn/"/>
+    <id>http://hackxy.github.io/bo/2015/04/24/qna-cn/</id>
+    <published>2015-04-24T14:59:40.323Z</published>
+    <updated>2015-04-24T14:59:40.323Z</updated>
     <content type="html"><![CDATA[<span class="label label-danger">Q</span> <code>Freemind</code> 这名字有何含义？<br><br><span class="label label-success">A</span> <code>Freemind</code> 命名出自 <a href="http://freemind.pluskid.org/" target="_blank" rel="external">Pluskid</a> 的博客。这个主题很大程度借鉴了他的博客的布局和样式。<br><br><span class="label label-danger">Q</span> 现在都有这么多 Hexo 的主题了，为啥又要写一个？<br><br><span class="label label-success">A</span> 实际上我这个主题在我使用 Hexo 前已经创建了。我在半年前将博客迁移到 Hexo ，因为我已经习惯了原来的主题，所以顺便把主题也移植了过来。<br><br><a id="more"></a>
 <p><span class="label label-danger">Q</span> 为啥还用 CSS 写样式，而不用更高端大气的 stylus ？</p>
 <p><span class="label label-success">A</span> 嗯，stylus 的确很酷。不过我不想再把以前的样式重写成 stylus 了。所以暂时先保留原来的 CSS。</p>
